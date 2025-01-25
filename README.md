@@ -31,7 +31,7 @@ At Tericsoft, we specialize in delivering advanced technology solutions tailored
    - AI & LLM Integration  
    - Computer Vision & Digital Transformation  
 
-**Let’s Partner:** [Get Started Now]((https://www.tericsoft.com/contact-us))
+**Let’s Partner:** **[Contact Us Now](https://www.tericsoft.com/contact-us)**
 
 ---
 
@@ -49,7 +49,7 @@ Developed AI tools to streamline diagnostic testing during COVID-19.
 - **3+ Years in Partnership**  
 - **200,000+ Patients Health Risk Analyzed**  
 
-Explore more: [Browse All Case Studies](#case-studies)  
+Explore more: **[Browse Case Studies](https://www.tericsoft.com/case-studies)**
 
 ---
 
