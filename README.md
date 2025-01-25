@@ -31,7 +31,7 @@ At Tericsoft, we specialize in delivering advanced technology solutions tailored
    - AI & LLM Integration  
    - Computer Vision & Digital Transformation  
 
-**Let’s Partner:** [Get Started Now](#contact-us)
+**Let’s Partner:** [Get Started Now]((https://www.tericsoft.com/contact-us))
 
 ---
 
