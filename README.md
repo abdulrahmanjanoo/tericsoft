@@ -1,5 +1,5 @@
-## **[Tericsoft](https://www.tericsoft.com/)**
-# **Tericsoft: Your Trusted Technology Partner**
+##
+#  **[Tericsoft](https://www.tericsoft.com/)**: Your Trusted Technology Partner**
 
 Welcome to **Tericsoft**, where innovation meets excellence. We are more than a service provider—we are your **long-term technology partner**, empowering startups, enterprises, and visionary leaders to unlock the full potential of their products.  
 
