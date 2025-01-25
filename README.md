@@ -1,2 +1,2 @@
-# tericsoft
+# Tericsoft
 Tericsoft 
