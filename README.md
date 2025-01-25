@@ -77,4 +77,4 @@ Let’s discuss how we can help bring your vision to life.
 ---
 
 © 2025 **Tericsoft Technology Solutions Pvt. Ltd.** All rights reserved.  
-**[Privacy Policy](#)** | **[Terms & Conditions](#)**  
+
