@@ -67,10 +67,6 @@ Explore more: [Browse All Case Studies](#case-studies)
 
 ---
 
-## 🌟 **Our Impact**
-Our solutions are designed to transform businesses and deliver outstanding results. With every project, we aim to drive innovation, efficiency, and growth.  
-
----
 
 ## 📞 **Contact Us**
 Let’s discuss how we can help bring your vision to life.  
